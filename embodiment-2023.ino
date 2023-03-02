@@ -1,19 +1,11 @@
 /**************************************************************************/
 /*!
-    @file     Adafruit_MMA8451.h
-    @author   K. Townsend (Adafruit Industries)
-    @license  BSD (see license.txt)
+    @file     embodiment-2023.ino
+    @author   Weston Wedding
+    @license  expat (see license.md)
 
-    This is an example for the Adafruit MMA8451 Accel breakout board
-    ----> https://www.adafruit.com/products/2019
-
-    Adafruit invests time and resources providing this open source code,
-    please support Adafruit and open-source hardware by purchasing
-    products from Adafruit!
-
-    @section  HISTORY
-
-    v1.0  - First release
+    This software is written as part of a contribution to the Northwest
+    Arkansas Community College's 2023 Spring Arts & Cultural Festival.
 */
 /**************************************************************************/
 
