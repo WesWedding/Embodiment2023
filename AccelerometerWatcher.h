@@ -6,7 +6,7 @@
 #include <Adafruit_Sensor.h>
 #include <RunningAverage.h>
 
-#define ACCEL_THRESH_FROM_G   1.0
+#include "config.h"
 
 class AccelerometerWatcher {
 public:

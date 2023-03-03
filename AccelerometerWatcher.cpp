@@ -68,7 +68,7 @@ float AccelerometerWatcher::totalAcceleration(void) {
 }
 
 float AccelerometerWatcher::absDiffFromG(float acceleration) {
-  return abs(acceleration - 9.806);
+  return abs(acceleration - ACCEL_G);
 }
 
 bool AccelerometerWatcher::wasPickedUp(void) {
